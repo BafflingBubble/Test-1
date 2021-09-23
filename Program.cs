@@ -16,7 +16,7 @@ namespace ColourPicker_3._0
                 Console.WriteLine("Pick/Type A Colour, Red, Blue, Yellow, Green");
                 string userValue = Console.ReadLine();
 
-                    Console.WriteLine("Kyle sucks");
+                    Console.WriteLine("Aiden Sucks");
 
                 //This block is my first if block it tells the console what to  do if the user types Blue
                 if (userValue == "Blue")
