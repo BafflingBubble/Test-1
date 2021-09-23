@@ -6,7 +6,8 @@ namespace ColourPicker_3._0
     class Program
     {
         static void Main(string[] args)
-        {
+        {bool man = true
+        {do
 
             {
                 //This block of code is to tell the console to say to pick a colour and how to identify an input
@@ -57,8 +58,8 @@ namespace ColourPicker_3._0
                
 
 
- 
-            }
+            }   
+        }while (man == true); 
         }
     }
 }
