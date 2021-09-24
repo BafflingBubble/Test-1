@@ -27,6 +27,7 @@ namespace ColourPicker_3._0
                     //
                     //
                     //
+                    //Kyle sucks 
                 //This block is my first if block it tells the console what to  do if the user types Blue
                 if (userValue == "Blue")
                 {
