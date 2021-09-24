@@ -1,18 +1,11 @@
 
-#hel[p
-#kjfahlkjdsahflakh
-#akjfhksja
-#ajkhfskjad
-#testing
 
-#fuck you Aiden hurley
-
-#jshfdsj
-
-#fuck you nick
 colour = input()
 
-if colour == 'pink':
+if colour == 'green':
+    print('Green is the color of fresh grass')
+
+elif colour == 'pink':
     print("gross pink is for girls, what are you a woman? more like light-ish red")
 
 elif colour == 'magenta':
@@ -23,3 +16,18 @@ elif colour == 'blue':
 
 elif colour == 'orange':
     print("Oranges do taste pretty good")
+#fuck you nick
+colour = input()
+
+elif colour == 'purple':
+    print('Purple is the colour of a grape')
+
+elif colour == 'white':
+    print('The color of purity and innocence white is a true balance of all colors')
+
+elif colour == 'black':
+    print("Black is the colour of a blood sucking crow, and it is a color most people don't know")
+
+    
+     else:
+    print("What you typed in wasn't once of the avaible options")
