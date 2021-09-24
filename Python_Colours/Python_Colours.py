@@ -13,7 +13,11 @@ elif colour == "brown":
 elif colour == "grey":
     print("Stupid colour")
 
+<<<<<<< HEAD
 if colour == 'green':
+=======
+elif colour == 'green':
+>>>>>>> 11ee8b90ebaeb2320890710a1bd385ed2ddf797b
     print('Green is the color of fresh grass')
 
 elif colour == 'pink':
