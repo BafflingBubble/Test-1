@@ -1,6 +1,13 @@
-#testing
-HEAD
-#fuck you Aiden hurley
-#jshfdsj
- 648d717edc4a9895dfaf7ca1dacaf2a41ea32f01
- #Fuck you mathhew sanchuk
+colour = input()
+
+if colour == "yellow":
+    print("Haha pee colour")
+
+elif colour == "red":
+    print("Based colour")
+
+elif colour == "brown":
+    print("Eww poo colour")
+
+elif colour == "grey":
+    print("Stupid colour")
