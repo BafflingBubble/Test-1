@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Colours", "Python_Colours\Python_Colours.pyproj", "{8E3C767C-4A4D-4079-A903-ACB1DFF60C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3C767C-4A4D-4079-A903-ACB1DFF60C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3C767C-4A4D-4079-A903-ACB1DFF60C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250C0AAC-5F31-4150-B523-83B52A9BFD64}
+	EndGlobalSection
+EndGlobal
