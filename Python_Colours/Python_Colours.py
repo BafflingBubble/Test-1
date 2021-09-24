@@ -13,9 +13,7 @@ elif colour == "brown":
 elif colour == "grey":
     print("Stupid colour")
 
-colour = input()
-
-if colour == 'green':
+elif colour == 'green':
     print('Green is the color of fresh grass')
 
 elif colour == 'pink':
