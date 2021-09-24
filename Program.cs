@@ -9,7 +9,7 @@ namespace ColourPicker_3._0
         {bool man = true
         {do
 
-            {
+            { //kyle this had etter work
                 //This block of code is to tell the console to say to pick a colour and how to identify an input
                 // Console color changes the colour of the text
                 Console.ForegroundColor = ConsoleColor.White;
