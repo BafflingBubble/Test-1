@@ -4,7 +4,8 @@ while var == 1:
     print('Welcome to the colour chooser')
     print('Please type in the colour you would like from the list of options below')
     print('Ensure that its in all lowercase and that everything is spelled correctly')
-    print('The options are yellow, red, brown, grey, green, pink, magenta, blue, orange, pruple, white, and black')
+    print('The options are yellow, red, brown, grey, green, pink, magenta, blue, orange, pruple, white, cyan, lime,') 
+    print(' silver, gold and black')
     print("________________________________________________________________________________________________________")
     colour = input()
 
@@ -43,6 +44,18 @@ while var == 1:
 
     elif colour == 'black':
         print("Black is the colour of a blood sucking crow, and it is a color most people don't know")
+
+    elif colour == 'cyan':
+        print ("My man really enjoyin cyan")
+
+    elif colour == 'lime':
+        print ("Booger boi")
+
+    elif colour == 'gold':
+        print ("I love Gooooold")
+
+    elif colour == 'silver':
+        print ("silver is straight bussin")
     
     else:
         print("What you typed in wasn't once of the avaible options, please try again")
