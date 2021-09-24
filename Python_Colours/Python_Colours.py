@@ -5,6 +5,20 @@ colour = input()
 if colour == 'green':
     print('Green is the color of fresh grass')
 
+elif colour == 'pink':
+    print("gross pink is for girls, what are you a woman? more like light-ish red")
+
+elif colour == 'magenta':
+    print("whats magenta? just call it purple-ish pink you idiot")
+
+elif colour == 'blue':
+    print("what are you a sheep? pick a better colour")
+
+elif colour == 'orange':
+    print("Oranges do taste pretty good")
+#fuck you nick
+colour = input()
+
 elif colour == 'purple':
     print('Purple is the colour of a grape')
 
@@ -13,6 +27,7 @@ elif colour == 'white':
 
 elif colour == 'black':
     print("Black is the colour of a blood sucking crow, and it is a color most people don't know")
-else:
-    print("What you typed in wasn't once of the avaible options")
 
+    
+     else:
+    print("What you typed in wasn't once of the avaible options")
